@@ -2,7 +2,7 @@
 Este é um projeto que fiz para estudo, ele é conectado com a OpenAI e OpenWeather, onde a IA irá receber uma pergunta sobre o clima em uma cidade, e com base nisso vai chamar uma função para coletar os dados em tempo real daquela cidade, e retornar os dados ao usuário com dicas úteis do que vestir e se ele precisa sair com guarda-chuvas de casa naquele dia.
 
 # Melhorias para o futuro (se houver kkk)
-- [ ] Filtrar a resposta da API para retornar apenas os dados necessários. (Economizar tokens!)
+- [ ] Filtrar a resposta da API para retornar apenas os dados necessários (economizar tokens).
 - [ ] O lint tá dando alguns alertas por conta dos tipos de alguns parâmetros, precisa ajustar.
 - [ ] Alterar a API da OpenAI de Chat Completions para Response (versão mais atual).
     - [Link do Guia](https://platform.openai.com/docs/guides/responses-vs-chat-completions)
@@ -12,7 +12,7 @@ Siga os passos abaixo para configurar e executar a aplicação.
 
 1.  **Clonar o Repositório:**
     ```bash
-    git clone <url-do-seu-repositorio>
+    git clone git@github.com:guedeira/weather-ai-assistant.git
     cd weather-ai-assistant
     ```
 2.  **Criar e Ativar um Ambiente Virtual:**
