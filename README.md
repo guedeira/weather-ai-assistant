@@ -61,4 +61,4 @@ O projeto foi estruturado para manter o código organizado e manutenável (eu te
 -   **Modo de Depuração (`DEBUG`):**
     -   A inclusão de uma flag `DEBUG` foi uma funcionalidade criada para facilitar o aprendizado e a manutenção. Quando ativada permite visualizar em tempo real a "decisão" da IA de chamar a ferramenta, os argumentos que ela usa e os dados que recebe de volta. É uma ferramenta para entender o mecanismo de **function calling**.
 
-> Olha, não vou falar que eu codei sozinho, foi eu e umas IAs (atualmente to testando o Gemini CLI mas as algumas vezes chamei o Claude também kkkk), o importante é que eu entendi toda a lógica e acredito que no quesito arquitetura e organização esteja OK também.
+> Olha, não vou falar que eu codei sozinho, foi eu e umas IAs (atualmente to testando o Gemini CLI mas algumas vezes chamei o Claude também kkkk), o importante é que eu entendi toda a lógica e acredito que no quesito arquitetura e organização esteja OK também.
